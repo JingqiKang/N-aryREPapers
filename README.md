@@ -46,7 +46,8 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Runzhe Wa
     <td>The dataset is introduced in Graph Convolution over Pruned Dependency Trees Improves Relation Extraction(Zhang et al., 2018) and can be used as a sentence level relation extraction task. </td>
     <td>TACRED:106K instances, 41 relation types+ 'none'    |  Semeval-10 Task 8：10717 instances, 9 relation types+ 'none'</td>
 </tr>
-	
+
+
 
 </tbody >
 </table>
