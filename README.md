@@ -11,7 +11,11 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Runzhe Wa
 - [Dataset](#dataset)
 
 ## Resources
-1. **How Time Matters: Learning Time-Decay Attention for Contextual Spoken Language Understanding in Dialogues** (DSTC4) `NAACL 2018` [[pdf]](https://www.aclweb.org/anthology/N18-1194.pdf) [[code]](https://github.com/MiuLab/Time-Decay-SLU) 
+1. **Cross-Sentence N-ary Relation Extraction with Graph LSTMs** `TACL 2017` [[pdf]](https://aclanthology.org/Q17-1008.pdf) [[code]](https://github.com/VioletPeng/GraphLSTM_release) 
+2. **N-ary Relation Extraction using Graph State LSTM**`EMNLP 2018` [[pdf]](https://aclanthology.org/D18-1246.pdf) [[code]]( https://github.com/freesunshine0316/nary-grn) 
+3. **Attention Guided Graph Convolutional Networks for Relation Extraction**`ACL 2019` [[pdf]](https://aclanthology.org/P19-1024.pdf) [[code]](https://github.com/Cartus/AGGCN) 
+4. **Document-Level N -ary Relation Extraction with Multiscale Representation Learning**`NAACL 2019` [[pdf]](https://arxiv.org/abs/1904.02347) [[code]](https://hanover.azurewebsites.net/downloads/naacl2019.aspx) 
+5. **A Dataset for N-ary Relation Extraction of Drug Combinations**`NAACL 2022` [[pdf]](https://arxiv.org/abs/2205.02289) [[code]](https://huggingface.co/allenai/drug-combo-classifier-pubmedbert-dapt) 
 
 ## Dataset
 <div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
