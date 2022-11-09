@@ -35,16 +35,18 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Runzhe Wa
     <td> The dataset in Cross-Sentence N-ary Relation Extraction with Graph LSTMs (Peng  et al., 2017) is widely used in N-ary-Relation-Extraction </td>
     <td> Download:      1. https://drive.google.com/drive/folders/1Jgw6A08nh-4umCV7tfqQ6HFg7mtDwo67?usp=sharing      2. https://github.com/freesunshine0316/nary-grn/tree/master/peng_data           Paper: https://aclanthology.org/Q17-1008.pdf </td>
     <td>The triples is from GDKD and CIVIC using distant supervision and the text is from PubMed. </td>
-    <td>Positive:3,462 ternary relation instances (subrelations: 137,469 drug-gene and 3,192 drug mutation relation instances)     Negative:Randomly sample co-occuring entity triples.</td>
+    <td>6987 triples, 6087 binary relations.</td>
 </tr>
 
-<tr
-	<td><code> AGGCN</code> </td>
-    <td> 1. The AGGCN (Attention Guided Graph Convolutional Networks for Relation Extraction) dataset (Guo  et al., 2019) is widely used in SLU research 2. For natural language  understanding </td>
-    <td> Download: https://drive.google.com/drive/folders/1Jgw6A08nh-4umCV7tfqQ6HFg7mtDwo67?usp=sharing Paper:      https://www.aclweb.org/anthology/H90-1021.pdf </td>
-    <td> Airline Travel Information     However, this data set has been shown to have a serious skew problem on intent </td>
-    <td> Train: 4478 Test: 893 120 slot and 21 intent                 </td>
+
+<tr>
+	<td><code>TACRED</code> </td>
+    <td> The AGGCN (Attention Guided Graph Convolutional Networks for Relation Extraction) dataset (Guo  et al., 2019) </td>
+    <td> Download:      1. https://drive.google.com/drive/folders/1Jgw6A08nh-4umCV7tfqQ6HFg7mtDwo67?usp=sharing      2. https://github.com/freesunshine0316/nary-grn/tree/master/peng_data           Paper: https://aclanthology.org/Q17-1008.pdf </td>
+    <td>The triples is from GDKD and CIVIC using distant supervision and the text is from PubMed. </td>
+    <td>Positive:3,462 ternary relation instances (subrelations: 137,469 drug-gene and 3,192 drug mutation relation instances)     Negative:Randomly sample co-occuring entity triples.</td>
 </tr>
+	
 
 </tbody >
 </table>
