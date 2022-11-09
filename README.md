@@ -40,11 +40,11 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Runzhe Wa
 
 
 <tr>
-	<td><code>TACRED</code> </td>
-    <td> The AGGCN (Attention Guided Graph Convolutional Networks for Relation Extraction) dataset (Guo  et al., 2019) </td>
-    <td> Download:      1. https://drive.google.com/drive/folders/1Jgw6A08nh-4umCV7tfqQ6HFg7mtDwo67?usp=sharing      2. https://github.com/freesunshine0316/nary-grn/tree/master/peng_data           Paper: https://aclanthology.org/Q17-1008.pdf </td>
-    <td>The triples is from GDKD and CIVIC using distant supervision and the text is from PubMed. </td>
-    <td>Positive:3,462 ternary relation instances (subrelations: 137,469 drug-gene and 3,192 drug mutation relation instances)     Negative:Randomly sample co-occuring entity triples.</td>
+	<td><code>AGGCN</code> </td>
+    <td>The sentence level dataset used in AGGCN (Attention Guided Graph Convolutional Networks for Relation Extraction) dataset (Guo  et al., 2019) </td>
+    <td> Download:    TACRED:https://nlp.stanford.edu/projects/tacred/  Semeval-10 Task 8: https://www.kaggle.com/datasets/drtoshi/semeval2010-task-8-dataset  Paper: https://aclanthology.org/P19-1024.pdf </td>
+    <td>The dataset is introduced in Graph Convolution over Pruned Dependency Trees Improves Relation Extraction(Zhang et al., 2018) and can be used as a sentence level relation extraction task. </td>
+    <td>TACRED:106K instances, 41 relation types+ 'none'   Semeval-10 Task 8：10717 instances, 9 relation types+ 'none'</td>
 </tr>
 	
 
