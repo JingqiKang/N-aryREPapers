@@ -35,7 +35,7 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Runzhe Wa
     <td> The dataset in Cross-Sentence N-ary Relation Extraction with Graph LSTMs (Peng  et al., 2017) is widely used in N-ary-Relation-Extraction </td>
     <td> Download:      1. https://drive.google.com/drive/folders/1Jgw6A08nh-4umCV7tfqQ6HFg7mtDwo67?usp=sharing      2. https://github.com/freesunshine0316/nary-grn/tree/master/peng_data           Paper: https://aclanthology.org/Q17-1008.pdf </td>
     <td>The triples is from GDKD and CIVIC using distant supervision and the text is from PubMed. </td>
-    <td> Train: 4478 Test: 893 120 slot and 21 intent                 </td>
+    <td>Positive:3,462 ternary relation instances(subrelations: 137,469 drug-gene and 3,192 drug mutation relation instances)     Negative:Randomly sample co-occuring entity triples.</td>
 </tr>
 
 <tr>
