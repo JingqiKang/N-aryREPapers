@@ -41,11 +41,21 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Runzhe Wa
 
 <tr>
 	<td><code>AGGCN</code> </td>
-    <td>The sentence level dataset used in AGGCN (Attention Guided Graph Convolutional Networks for Relation Extraction) dataset (Guo  et al., 2019) </td>
+    <td>The sentence level dataset used in AGGCN (Attention Guided Graph Convolutional Networks for Relation Extraction) dataset (Guo et al., 2019) </td>
     <td> Download:    TACRED:https://nlp.stanford.edu/projects/tacred/  |  Semeval-10 Task 8: https://www.kaggle.com/datasets/drtoshi/semeval2010-task-8-dataset  |  Paper: https://aclanthology.org/P19-1024.pdf </td>
     <td>The dataset is introduced in Graph Convolution over Pruned Dependency Trees Improves Relation Extraction(Zhang et al., 2018) and can be used as a sentence level relation extraction task. </td>
     <td>TACRED:106K instances, 41 relation types+ 'none'    |  Semeval-10 Task 8：10717 instances, 9 relation types+ 'none'</td>
 </tr>
+
+
+<tr>
+	<td><code>CKB</code> </td>
+    <td>It is a gold-standard test set used in Document-Level N-ary Relation Extraction with Multiscale Representation Learning (Jia et al., 2019).</td>
+    <td> Download:   https://hanover.azurewebsites.net/downloads/naacl2019.aspx | Paper: https://arxiv.org/abs/1904.02347 </td>
+    <td>The dataset contains document-level annotation of drug-gene-mutation interactions manually curated by JAX. It is a high-quality KB containing facts from a few hundred PubMed articles for 86 genes </td>
+    <td> Documents: 118+225 | Facts: 701+1324</td>
+</tr>
+
 
 
 
