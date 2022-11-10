@@ -56,7 +56,13 @@ Resource Contributed by [Jingqi Kang](https://github.com/JingqiKang), [Runzhe Wa
     <td> Documents: 118+225 | Facts: 701+1324</td>
 </tr>
 
-
+<tr>
+	<td><code>Drug-combo</code> </td>
+    <td>The dataset is introduced in A Dataset for N-ary Relation Extraction of Drug Combinations (Tiktinsky at al., 2022).</td>
+    <td> Download:   https://huggingface.co/datasets/allenai/drug-combo-extraction | Paper:https://arxiv.org/abs/2205.02289 </td>
+    <td> It can be used for variable-length n-ary relations and the relation information is of long range dependencies(cross-sentence).</td>
+    <td> 1362 train, 272 test instances and  1248 relations.</td>
+</tr>
 
 
 </tbody >
